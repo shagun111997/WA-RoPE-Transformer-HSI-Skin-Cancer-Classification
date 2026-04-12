@@ -28,3 +28,34 @@ Data Article link: https://arxiv.org/abs/2401.01200
 
 ```bash
 pip install -r requirements.txt
+
+🚀 **How to Run**
+Step 1: Preprocessing
+python scripts/preprocessing.py
+Step 2: Training
+python scripts/train.py
+Step 3: Testing
+python scripts/test.py
+
+🔁 **Reproducibility**
+Train-test split: 80/20 (stratified)
+Preprocessing: SNV normalization
+Augmentation:
+Spectral noise injection
+Random band masking
+Loss: Focal Loss
+Optimizer: Adam
+Scheduler: Cosine Annealing
+
+📊 **Evaluation Metrics**
+Accuracy
+Precision
+Recall
+F1-score
+ROC-AUC
+
+📌 **Citation**: If you use this code, please cite:
+
+
+
+
