@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Hyperspectral Skin Cancer Detection using WA-RoPE Transformer"
+authors:
+  - family-names: Jain
+    given-names: Shagun
+version: 1.0
+date-released: 2026
+Note: "If you use this code, please cite."
