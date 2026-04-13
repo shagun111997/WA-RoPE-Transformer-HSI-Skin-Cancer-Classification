@@ -35,7 +35,7 @@ Data Article link: https://arxiv.org/abs/2401.01200
 ```bash
 pip install -r requirements.txt
 
-🚀 **How to Run**
+🚀 ### How to Run
 Step 1: Preprocessing
 python scripts/preprocessing.py
 Step 2: Training
