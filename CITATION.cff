@@ -5,4 +5,4 @@ authors:
     given-names: Shagun
 version: 1.0
 date-released: 2026
-Note: "If you use this code, please cite."
+Note: "This repository contains code directly associated with a manuscript currently under review at *The Visual Computer*. If you use this code in your research, please cite the corresponding manuscript. Full citation details will be updated upon publication."
