@@ -5,7 +5,9 @@ DOI: https://doi.org/10.5281/zenodo.19551472
 
 This repository provides the implementation of a WA-RoPE Transformer-based framework for hyperspectral skin cancer classification. It includes preprocessing, training, and testing modules, along with a dataset link and documentation, enabling reproducibility and facilitating further research and development.
 
-This repository contains the official implementation of our manuscript.
+This repository contains code directly associated with a manuscript currently under review at *The Visual Computer*.
+
+If you use this code in your research, please cite the corresponding manuscript. Full citation details will be updated upon publication.
 
 ## 📌 Overview
 We propose a **Wavelength-Aware Rotary Positional Embedding (WA-RoPE) Transformer** for hyperspectral skin cancer classification.
@@ -58,7 +60,7 @@ Recall
 F1-score
 ROC-AUC
 
-📌 **Citation**: If you use this code, please cite:
+
 
 
 
