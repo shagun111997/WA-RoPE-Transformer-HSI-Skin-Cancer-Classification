@@ -5,7 +5,7 @@ DOI: https://doi.org/10.5281/zenodo.19551472
 
 It provides the implementation of a WA-RoPE Transformer-based framework for hyperspectral skin cancer classification. This repository includes preprocessing, training, and testing modules, along with a dataset link and documentation, enabling reproducibility and facilitating further research and development.
 
-This repository contains code directly associated with a manuscript currently under review at *The Visual Computer*.
+This repository contains code directly associated with a manuscript currently submitted at *The Visual Computer*.
 
 If you use this code in your research, please cite the corresponding manuscript. Full citation details will be updated upon publication.
 
